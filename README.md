@@ -47,7 +47,7 @@
 
 ![image](https://github.com/sruthiviswanadham/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/151760421/ea03c632-9530-463c-aa79-832be4b4d62d)
 
-### Name:VISWANADHAM VENKATA SAI SRUTHI
+### Name: VISWANADHAM VENKATA SAI SRUTHI
 ### Register Number: 212223100061
 
 
